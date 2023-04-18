@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UNICODE" ?>
+<topo version="1.3.00.100">
+    <devices>
+        <dev id="B0557BAE-557C-4fdd-AC08-5B02C7FE3CA8" name="R4" poe="0" model="AR2220" settings="" system_mac="00-E0-FC-46-6A-26" com_port="2003" bootmode="0" cx="385.000000" cy="374.000000" edit_left="412" edit_top="428">
+            <slot number="slot17" isMainBoard="1">
+                <interface sztype="Ethernet" interfacename="GE" count="1" />
+                <interface sztype="Ethernet" interfacename="GE" count="2" />
+                <interface sztype="Serial" interfacename="Serial" count="2" />
+            </slot>
+            <slot isMainBoard="0" id="0" type="521" />
+        </dev>
+        <dev id="4E58418E-DA62-4326-A1D4-6CDC335EEBEF" name="R3" poe="0" model="AR2220" settings="" system_mac="00-E0-FC-97-3A-DF" com_port="2002" bootmode="0" cx="111.000000" cy="375.000000" edit_left="138" edit_top="429">
+            <slot number="slot17" isMainBoard="1">
+                <interface sztype="Ethernet" interfacename="GE" count="1" />
+                <interface sztype="Ethernet" interfacename="GE" count="2" />
+                <interface sztype="Serial" interfacename="Serial" count="2" />
+            </slot>
+            <slot isMainBoard="0" id="0" type="521" />
+        </dev>
+        <dev id="E8FB64C0-354F-49b0-B96D-484CDB91A3F0" name="R1" poe="0" model="AR2220" settings="" system_mac="00-E0-FC-92-5D-02" com_port="2000" bootmode="0" cx="104.000000" cy="135.000000" edit_left="131" edit_top="189">
+            <slot number="slot17" isMainBoard="1">
+                <interface sztype="Ethernet" interfacename="GE" count="1" />
+                <interface sztype="Ethernet" interfacename="GE" count="2" />
+                <interface sztype="Serial" interfacename="Serial" count="2" />
+            </slot>
+            <slot isMainBoard="0" id="0" type="521" />
+        </dev>
+        <dev id="03B9C6F6-4FEB-432d-A1BF-414DD4884774" name="R6" poe="0" model="AR2220" settings="" system_mac="00-E0-FC-1C-39-94" com_port="2005" bootmode="1" cx="388.000000" cy="624.000000" edit_left="415" edit_top="678">
+            <slot number="slot17" isMainBoard="1">
+                <interface sztype="Ethernet" interfacename="GE" count="1" />
+                <interface sztype="Ethernet" interfacename="GE" count="2" />
+                <interface sztype="Serial" interfacename="Serial" count="2" />
+            </slot>
+            <slot isMainBoard="0" id="0" type="521" />
+        </dev>
+        <dev id="9C304A0F-76DF-4d35-BD7C-00528F10A3E6" name="R5" poe="0" model="AR2220" settings="" system_mac="00-E0-FC-A1-69-0D" com_port="2004" bootmode="0" cx="95.000000" cy="624.000000" edit_left="122" edit_top="678">
+            <slot number="slot17" isMainBoard="1">
+                <interface sztype="Ethernet" interfacename="GE" count="1" />
+                <interface sztype="Ethernet" interfacename="GE" count="2" />
+                <interface sztype="Serial" interfacename="Serial" count="2" />
+            </slot>
+            <slot isMainBoard="0" id="0" type="521" />
+        </dev>
+        <dev id="EA82C415-4B35-4dee-A86B-C37A09DCE492" name="R2" poe="0" model="AR2220" settings="" system_mac="00-E0-FC-4E-0B-E3" com_port="2001" bootmode="0" cx="367.000000" cy="134.000000" edit_left="393" edit_top="189">
+            <slot number="slot17" isMainBoard="1">
+                <interface sztype="Ethernet" interfacename="GE" count="1" />
+                <interface sztype="Ethernet" interfacename="GE" count="2" />
+                <interface sztype="Serial" interfacename="Serial" count="2" />
+            </slot>
+            <slot isMainBoard="0" id="0" type="521" />
+        </dev>
+        <dev id="1307B976-75BE-475e-A144-24D4A46156F0" name="SW1" poe="0" model="S5700" settings="" system_mac="4C-1F-CC-09-2A-C4" com_port="2007" bootmode="0" cx="290.000000" cy="869.000000" edit_left="317" edit_top="923">
+            <slot number="slot17" isMainBoard="1">
+                <interface sztype="Ethernet" interfacename="GE" count="24" />
+            </slot>
+        </dev>
+        <dev id="98988DAE-6FBF-4a9d-A184-EC3A7FC36AC3" name="R7" poe="0" model="AR2220" settings="" system_mac="00-E0-FC-04-62-D9" com_port="2006" bootmode="0" cx="100.000000" cy="869.000000" edit_left="128" edit_top="923">
+            <slot number="slot17" isMainBoard="1">
+                <interface sztype="Ethernet" interfacename="GE" count="1" />
+                <interface sztype="Ethernet" interfacename="GE" count="2" />
+            </slot>
+        </dev>
+        <dev id="53A1A4E2-634F-4007-96CD-4AE0AF1AD669" name="R8" poe="0" model="AR2220" settings="" system_mac="00-E0-FC-15-07-7C" com_port="2008" bootmode="0" cx="484.000000" cy="869.000000" edit_left="511" edit_top="923">
+            <slot number="slot17" isMainBoard="1">
+                <interface sztype="Ethernet" interfacename="GE" count="1" />
+                <interface sztype="Ethernet" interfacename="GE" count="2" />
+            </slot>
+        </dev>
+        <dev id="2767C27C-72AC-40af-B757-655CB185BCE0" name="ISP" poe="0" model="AR2220" settings="" system_mac="00-E0-FC-5C-38-ED" com_port="2010" bootmode="1" cx="435.000000" cy="1148.000000" edit_left="466" edit_top="1133">
+            <slot number="slot17" isMainBoard="1">
+                <interface sztype="Ethernet" interfacename="GE" count="1" />
+                <interface sztype="Ethernet" interfacename="GE" count="2" />
+            </slot>
+        </dev>
+        <dev id="A1BD7CC2-6CA2-4cca-8B2D-BF82E1E6DDE7" name="RT1" poe="0" model="AR2220" settings="" system_mac="00-E0-FC-EB-51-B8" com_port="2009" bootmode="1" cx="242.000000" cy="1342.000000" edit_left="269" edit_top="1396">
+            <slot number="slot17" isMainBoard="1">
+                <interface sztype="Ethernet" interfacename="GE" count="1" />
+                <interface sztype="Ethernet" interfacename="GE" count="2" />
+            </slot>
+        </dev>
+        <dev id="1BA94AB1-3705-492b-AA05-F011F0075D79" name="RT2" poe="0" model="AR2220" settings="" system_mac="00-E0-FC-43-1D-FF" com_port="2011" bootmode="1" cx="617.000000" cy="1339.000000" edit_left="644" edit_top="1393">
+            <slot number="slot17" isMainBoard="1">
+                <interface sztype="Ethernet" interfacename="GE" count="1" />
+                <interface sztype="Ethernet" interfacename="GE" count="2" />
+            </slot>
+        </dev>
+    </devices>
+    <lines>
+        <line srcDeviceID="E8FB64C0-354F-49b0-B96D-484CDB91A3F0" destDeviceID="EA82C415-4B35-4dee-A86B-C37A09DCE492">
+            <interfacePair lineName="Serial" srcIndex="3" srcBoundRectIsMoved="1" srcBoundRect_X="174.183456" srcBoundRect_Y="161.835800" srcOffset_X="-8.000000" srcOffset_Y="-21.000000" tarIndex="4" tarBoundRectIsMoved="1" tarBoundRect_X="350.816559" tarBoundRect_Y="161.164200" tarOffset_X="-53.000000" tarOffset_Y="-23.000000" />
+        </line>
+        <line srcDeviceID="4E58418E-DA62-4326-A1D4-6CDC335EEBEF" destDeviceID="B0557BAE-557C-4fdd-AC08-5B02C7FE3CA8">
+            <interfacePair lineName="Serial" srcIndex="3" srcBoundRectIsMoved="1" srcBoundRect_X="181.183472" srcBoundRect_Y="401.842407" srcOffset_X="-7.000000" srcOffset_Y="-22.000000" tarIndex="4" tarBoundRectIsMoved="1" tarBoundRect_X="368.816528" tarBoundRect_Y="401.157593" tarOffset_X="-56.000000" tarOffset_Y="-24.000000" />
+        </line>
+        <line srcDeviceID="9C304A0F-76DF-4d35-BD7C-00528F10A3E6" destDeviceID="03B9C6F6-4FEB-432d-A1BF-414DD4884774">
+            <interfacePair lineName="Serial" srcIndex="3" srcBoundRectIsMoved="1" srcBoundRect_X="165.183762" srcBoundRect_Y="651.000000" srcOffset_X="-6.000000" srcOffset_Y="-24.000000" tarIndex="4" tarBoundRectIsMoved="1" tarBoundRect_X="371.816223" tarBoundRect_Y="651.000000" tarOffset_X="-58.000000" tarOffset_Y="-24.000000" />
+        </line>
+        <line srcDeviceID="98988DAE-6FBF-4a9d-A184-EC3A7FC36AC3" destDeviceID="1307B976-75BE-475e-A144-24D4A46156F0">
+            <interfacePair lineName="Copper" srcIndex="0" srcBoundRectIsMoved="1" srcBoundRect_X="170.183762" srcBoundRect_Y="896.000000" srcOffset_X="-11.000000" srcOffset_Y="-18.000000" tarIndex="0" tarBoundRectIsMoved="1" tarBoundRect_X="273.816223" tarBoundRect_Y="896.000000" tarOffset_X="-32.000000" tarOffset_Y="-18.000000" />
+        </line>
+        <line srcDeviceID="1307B976-75BE-475e-A144-24D4A46156F0" destDeviceID="53A1A4E2-634F-4007-96CD-4AE0AF1AD669">
+            <interfacePair lineName="Copper" srcIndex="1" srcBoundRectIsMoved="1" srcBoundRect_X="360.183777" srcBoundRect_Y="896.000000" srcOffset_X="-11.000000" srcOffset_Y="-22.000000" tarIndex="0" tarBoundRectIsMoved="1" tarBoundRect_X="467.816223" tarBoundRect_Y="896.000000" tarOffset_X="-37.000000" tarOffset_Y="-20.000000" />
+        </line>
+        <line srcDeviceID="A1BD7CC2-6CA2-4cca-8B2D-BF82E1E6DDE7" destDeviceID="2767C27C-72AC-40af-B757-655CB185BCE0">
+            <interfacePair lineName="Copper" srcIndex="0" srcBoundRectIsMoved="1" srcBoundRect_X="299.456543" srcBoundRect_Y="1338.385620" srcOffset_X="-43.000000" srcOffset_Y="-17.000000" tarIndex="0" tarBoundRectIsMoved="1" tarBoundRect_X="431.543457" tarBoundRect_Y="1205.614380" tarOffset_X="-64.000000" tarOffset_Y="-2.000000" />
+        </line>
+        <line srcDeviceID="2767C27C-72AC-40af-B757-655CB185BCE0" destDeviceID="1BA94AB1-3705-492b-AA05-F011F0075D79">
+            <interfacePair lineName="Copper" srcIndex="1" srcBoundRectIsMoved="1" srcBoundRect_X="491.790070" srcBoundRect_Y="1206.263184" srcOffset_X="14.000000" srcOffset_Y="0.000000" tarIndex="1" tarBoundRectIsMoved="1" tarBoundRect_X="614.209900" tarBoundRect_Y="1334.736816" tarOffset_X="0.000000" tarOffset_Y="-21.000000" />
+        </line>
+    </lines>
+    <shapes />
+    <txttips>
+        <txttip left="157" top="112" right="227" bottom="125" content="10.0.1.1/30" fontname="Consolas" fontstyle="0" editsize="80" txtcolor="-16777216" txtbkcolor="-7278960" charset="1" />
+        <txttip left="299" top="113" right="369" bottom="126" content="10.0.1.2/30" fontname="Consolas" fontstyle="0" editsize="80" txtcolor="-16777216" txtbkcolor="-7278960" charset="1" />
+        <txttip left="33" top="40" right="310" bottom="60" content="Configuring HDLC encapsulation" fontname="Consolas" fontstyle="0" editsize="120" txtcolor="-1" txtbkcolor="-16777216" charset="1" />
+        <txttip left="30" top="263" right="515" bottom="283" content="Configuring PPP encapsulation with PAP Authentication" fontname="Consolas" fontstyle="0" editsize="120" txtcolor="-1" txtbkcolor="-16777216" charset="1" />
+        <txttip left="163" top="347" right="233" bottom="360" content="10.0.1.1/30" fontname="Consolas" fontstyle="0" editsize="80" txtcolor="-16777216" txtbkcolor="-7278960" charset="1" />
+        <txttip left="318" top="347" right="388" bottom="360" content="10.0.1.2/30" fontname="Consolas" fontstyle="0" editsize="80" txtcolor="-16777216" txtbkcolor="-7278960" charset="1" />
+        <txttip left="26" top="506" right="520" bottom="526" content="Configuring PPP encapsulation with CHAP Authentication" fontname="Consolas" fontstyle="0" editsize="120" txtcolor="-1" txtbkcolor="-16777216" charset="1" />
+        <txttip left="166" top="595" right="236" bottom="608" content="10.0.1.1/30" fontname="Consolas" fontstyle="0" editsize="80" txtcolor="-16777216" txtbkcolor="-7278960" charset="1" />
+        <txttip left="318" top="596" right="388" bottom="609" content="10.0.1.2/30" fontname="Consolas" fontstyle="0" editsize="80" txtcolor="-16777216" txtbkcolor="-7278960" charset="1" />
+        <txttip left="33" top="770" right="355" bottom="790" content="Configuring PPPoE on Huawei Routers" fontname="Consolas" fontstyle="0" editsize="120" txtcolor="-1" txtbkcolor="-16777216" charset="1" />
+        <txttip left="93" top="843" right="169" bottom="856" content="PPPoE Server" fontname="Consolas" fontstyle="0" editsize="80" txtcolor="-16777216" txtbkcolor="-8323073" charset="1" />
+        <txttip left="473" top="847" right="549" bottom="860" content="PPPoE Client" fontname="Consolas" fontstyle="0" editsize="80" txtcolor="-16777216" txtbkcolor="-8323073" charset="1" />
+        <txttip left="249" top="948" right="374" bottom="980" content="Virtual Template&#x0D;&#x0A;172.16.1.0/24" fontname="Consolas" fontstyle="0" editsize="100" txtcolor="-16777216" txtbkcolor="-7278960" charset="1" />
+        <txttip left="92" top="449" right="174" bottom="462" content="Authenticator" fontname="Consolas" fontstyle="0" editsize="80" txtcolor="-16777216" txtbkcolor="-8323073" charset="1" />
+        <txttip left="267" top="413" right="288" bottom="426" content="PPP" fontname="Consolas" fontstyle="0" editsize="80" txtcolor="-16777216" txtbkcolor="-8323073" charset="1" />
+        <txttip left="397" top="446" right="424" bottom="459" content="Peer" fontname="Consolas" fontstyle="0" editsize="80" txtcolor="-16777216" txtbkcolor="-8323073" charset="1" />
+        <txttip left="264" top="662" right="285" bottom="675" content="PPP" fontname="Consolas" fontstyle="0" editsize="80" txtcolor="-16777216" txtbkcolor="-8323073" charset="1" />
+        <txttip left="77" top="697" right="159" bottom="710" content="Authenticator" fontname="Consolas" fontstyle="0" editsize="80" txtcolor="-16777216" txtbkcolor="-8323073" charset="1" />
+        <txttip left="399" top="695" right="426" bottom="708" content="Peer" fontname="Consolas" fontstyle="0" editsize="80" txtcolor="-16777216" txtbkcolor="-8323073" charset="1" />
+        <txttip left="36" top="1062" right="267" bottom="1082" content="Configuring GRE Tunneling" fontname="Consolas" fontstyle="0" editsize="120" txtcolor="-1" txtbkcolor="-16777216" charset="1" />
+        <txttip left="233" top="1249" right="350" bottom="1266" content="192.168.11.0/24" fontname="Consolas" fontstyle="0" editsize="100" txtcolor="-16777216" txtbkcolor="-7278960" charset="1" />
+        <txttip left="567" top="1249" right="684" bottom="1266" content="192.168.12.0/24" fontname="Consolas" fontstyle="0" editsize="100" txtcolor="-16777216" txtbkcolor="-8323073" charset="1" />
+        <txttip left="310" top="1339" right="333" bottom="1359" content=".1" fontname="Consolas" fontstyle="0" editsize="120" txtcolor="-16777216" txtbkcolor="-7278960" charset="1" />
+        <txttip left="582" top="1337" right="605" bottom="1357" content=".1" fontname="Consolas" fontstyle="0" editsize="120" txtcolor="-16777216" txtbkcolor="-8323073" charset="1" />
+        <txttip left="426" top="1222" right="449" bottom="1242" content=".2" fontname="Consolas" fontstyle="0" editsize="120" txtcolor="-16777216" txtbkcolor="-7278960" charset="1" />
+        <txttip left="476" top="1224" right="499" bottom="1244" content=".2" fontname="Consolas" fontstyle="0" editsize="120" txtcolor="-16777216" txtbkcolor="-8323073" charset="1" />
+        <txttip left="219" top="1416" right="305" bottom="1436" content="HQ Campus" fontname="Consolas" fontstyle="0" editsize="120" txtcolor="-65281" txtbkcolor="-1" charset="1" />
+        <txttip left="593" top="1413" right="716" bottom="1433" content="Branch Campus" fontname="Consolas" fontstyle="0" editsize="120" txtcolor="-65281" txtbkcolor="-1" charset="1" />
+        <txttip left="162" top="1353" right="232" bottom="1379" content="Loopback 0&#x0D;&#x0A;50.0.1.1/24" fontname="Consolas" fontstyle="0" editsize="80" txtcolor="-16777216" txtbkcolor="-128" charset="1" />
+        <txttip left="680" top="1350" right="750" bottom="1376" content="Loopback 0&#x0D;&#x0A;50.0.2.1/24" fontname="Consolas" fontstyle="0" editsize="80" txtcolor="-16777216" txtbkcolor="-128" charset="1" />
+        <txttip left="139" top="1316" right="221" bottom="1342" content="Tunnel 0/0/1&#x0D;&#x0A;10.0.1.1/24" fontname="Consolas" fontstyle="0" editsize="80" txtcolor="-16777216" txtbkcolor="-32513" charset="1" />
+        <txttip left="701" top="1313" right="783" bottom="1339" content="Tunnel 0/0/1&#x0D;&#x0A;10.0.1.2/24" fontname="Consolas" fontstyle="0" editsize="80" txtcolor="-16777216" txtbkcolor="-32513" charset="1" />
+    </txttips>
+</topo>
