@@ -1,9 +1,11 @@
 # Networking
 
+Download Linux images (OVF Files)
+https://drive.google.com/drive/folders/1cUMzXEw4BFvp3dGhMJQiGjQnVS0b3MTB?usp=sharing
 
-IPv6 OSPFv3 and DHCPv6 (Level1 - Task)
-https://youtu.be/GnjtaMZhYPk?list=PLff-mSVdJWyVnWNAYGIPUv5for2tDjWpa
+Download VMware Workstation Pro
+https://drive.google.com/drive/folders/1xPeOKfdeOzGdEHJRhYktJThgL6-xjkHy?usp=sharing
 
+Link YouTube Channel
+https://www.youtube.com/playlist?list=PLqzHlBIxhTu2wlO2GhGKEV5edlE0z7SSb
 
-Creating an IPv6 Network (Level2 - Task)
-https://youtu.be/etW6adH80KA?list=PLX188erVIbOjPGLdzbE6Lo55vm4kSLCEF
